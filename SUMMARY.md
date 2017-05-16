@@ -1,1 +1,1 @@
-*[观察者模式](paper/Observer.md)
+* [观察者模式](paper/Observer.md)
